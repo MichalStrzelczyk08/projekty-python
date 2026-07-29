@@ -44,3 +44,7 @@ while decyzja != 4:
     decyzja = wybierz_opcje()
 
 wykonaj_polecenie(decyzja)
+
+
+
+# Drugi Commit
